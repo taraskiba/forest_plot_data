@@ -10,7 +10,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://npcbaddie.github.io/forest_plot_data
-    
+
 
 ## Features
 
