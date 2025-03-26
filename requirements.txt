@@ -1,1 +1,5 @@
+ee
+geopandas
+leafmap
 numpy
+pandas
