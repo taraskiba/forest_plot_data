@@ -1,4 +1,5 @@
-ee
+earthengine-api
+geemap
 geopandas
 leafmap
 numpy

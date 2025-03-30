@@ -2,6 +2,7 @@
 import leafmap
 import ee
 import pandas as pd
+import geemap as gpd
 
 # initialize the Earth Engine module
 ee.Initialize()
