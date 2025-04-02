@@ -28,6 +28,7 @@ wheels/
 *.egg
 *.csv
 *.geojson
+*.csv
 fuzzy_coordinates.geojson
 
 # PyInstaller
