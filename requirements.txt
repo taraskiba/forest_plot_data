@@ -4,5 +4,4 @@ geopandas
 ipyleaflet
 leafmap
 numpy
-os
 pandas
