@@ -2,7 +2,6 @@ earthengine-api
 geemap
 geopandas
 ipyleaflet
-json
 leafmap
 numpy
 os
