@@ -2,7 +2,6 @@
 
 """Tests for `forest_plot_data` package."""
 
-
 import unittest
 
 from forest_plot_data import forest_plot_data
